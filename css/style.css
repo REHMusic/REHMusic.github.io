@@ -1,7 +1,0 @@
-/* 音频动画 */
-#canvas {
-    position: absolute;
-    top: 0;
-    left: 50% ;
-    margin-left: -400px;
-}
