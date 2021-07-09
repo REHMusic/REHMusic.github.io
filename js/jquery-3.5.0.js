@@ -4737,7 +4737,7 @@ var isHiddenWithinTree = function( elem, el ) {
 
 function adjustCSS( elem, prop, valueParts, tween ) {
 	var adjusted, scale,
-		maxIterations = 20,
+		maxIterations = 25,
 		currentValue = tween ?
 			function() {
 				return tween.cur();
